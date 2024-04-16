@@ -15,7 +15,7 @@ function Footer() {
             © Developer Portfolio by{" "}
             <Link
               target="_blank"
-              href="www.linkedin.com/in/thayanan-thevarasa/"
+              href="https://www.linkedin.com/in/thayanan-thevarasa/"
               className="text-[#16f2b3]"
             >
               Thevarasa Thayanan
